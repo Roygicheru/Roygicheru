@@ -92,7 +92,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40">
   </a>
   <a href="mailto:gicheru.k.roy@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/349502/gmail.svg" alt="gmail" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40">
   </a>
 </p>
 
