@@ -88,7 +88,7 @@
 ## 🌐 Connect With Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/roygicheru" target="_blank">
+  <a href="https://www.linkedin.com/in/roy-gicheru-b3435b2b9/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40">
   </a>
   <a href="mailto:gicheru.k.roy@gmail.com" target="_blank">
