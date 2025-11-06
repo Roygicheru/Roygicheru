@@ -81,10 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roygicheru&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roygicheru&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
-
 ---
 
 ## 🔗 Let's Connect
