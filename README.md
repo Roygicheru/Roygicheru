@@ -101,5 +101,5 @@
 </div>
 
 <div align="center">  
-  **“Discipline and curiosity build the best engineers.”** - *Roy Gicheru*
+  “Discipline and curiosity build the best engineers.” - Roy Gicheru
 </div>
